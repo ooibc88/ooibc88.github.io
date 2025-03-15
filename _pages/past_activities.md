@@ -481,7 +481,6 @@ Panel Chair</li>
 
 <li>
 <b>Editorial</b></li>
-<blockquote>
 <ol>
 
 <li>
