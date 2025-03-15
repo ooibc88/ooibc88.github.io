@@ -74,7 +74,7 @@ PC Chair.
 
 
 </li><li>
-<a href="/al-folio/past-professional/"><b> past activities: 1992-2010 </b></a></li></ol>
+<a href="/past-professional/"><b> past activities: 1992-2010 </b></a></li></ol>
 
 ### Journals
 

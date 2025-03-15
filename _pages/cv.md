@@ -216,11 +216,11 @@ Advanced Topics on Databases (CS6203), Research Methodology (CS2309)
 <td> </td><td> Tencent Gift Grant (multiple); TikTok Gift Grant; Alibaba Grant; Microsoft Academic Grant; Google Academic Grant; AT&amp;T Gift Grant (multiple)
 </td></tr><tr>
 <td> <b>Publications:</b> </td>
-<td> <a href="/al-folio/publications/"> Selected papers </a> </td>
+<td> <a href="/publications/"> Selected papers </a> </td>
 </tr>
 <tr><td>
 <b> Professional Activities: </b></td>
-<td> <a href="/al-folio/professional/"> Details </a>
+<td> <a href="/professional/"> Details </a>
 </td>
 </tr>
 <tr>
