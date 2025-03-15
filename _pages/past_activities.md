@@ -502,4 +502,3 @@ Collection, 2000-2003</li>
 <li> Guest editor, IEEE Transactions on Knowledge and Data Engineering,
 Special issues on P2P based Data Management, July 2004</li>
 </ol>
-</a>
