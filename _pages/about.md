@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: titles.about
 permalink: /
 subtitle: 浙江大学软件学院
 subtitle_en: School of Software Technology, Zhejiang University
