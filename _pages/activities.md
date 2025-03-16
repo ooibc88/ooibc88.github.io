@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-### Conferences
+### Recent Conferences
 <ol>
 <li> International Conference on Very Large Data Bases (VLDB), 2022.
 AE.
@@ -73,8 +73,7 @@ IEEE International Conference on Data Engineering (ICDE'12), 2012.
 PC Chair.
 
 
-</li><li>
-<a href="/past-professional/"><b> past activities: 1992-2010 </b></a></li></ol>
+</li></ol>
 
 ### Journals
 
