@@ -1,9 +1,8 @@
 <p>
 Beng Chin OOI <br>
-Department of Computer Science <br>
-School of Computing <br>
-National University of Singapore <br>
-Computin 1, Singapore 117417 <br>
+School of Software Technology <br>
+Zhejiang University <br>
+Building 9, No. 5 Xuefu Road, Yinzhou District, Ningbo City, Zhejiang Province, China. <br>
 
 </p>
 -------------------------------
