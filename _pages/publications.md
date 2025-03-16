@@ -29,13 +29,8 @@ toc:
 
 <li>
 T. Lin et al:
-
 HealthGPT: A Medical Large Vision-Language Model for Unifying
-Comprehension and Generation via Heterogeneous Knowledge Adaptation.
- 2025. 
-
-Video by OLSA
-
+Comprehension and Generation via Heterogeneous Knowledge Adaptation. 2025. 
 
 </li><li>
 A. Lee et al:
@@ -45,42 +40,32 @@ The Spine Journal. 2025. (medical)
 </li><li>
 J. Hallinan et al:
 Enhancing Reporting Efficiency and Accuracy for Degenerative Cervical Spine MRI with Deep Learning.
-The Royal College of Radiologists Open. 2025.
-(medical)
+The Royal College of Radiologists Open. 2025. (medical)
 
 </li><li>
 Z. Zhao, S. Cai, H. Gao, H. Pan, S. Xiang, N. Xing, G. Chen, B.C. Ooi, Y. Shen, Y. Wu, M. Zhang:
-
 NeurDB: On the Design and Implementation of an AI-powered Autonomous Database.
-
 CIDR 2025.
 
 </li><li>
 X. Zhu, X. Luo, Y. Wu, Y. Jiang, X. Xiao, B.C. Ooi:
-
 Passive Inference Attacks on Split Learning via Adversarial Regularization.
-
 NDSS 2025.
 
 </li><li>
 H. Gao, S. Cai, T.T.A Anh, Z. Huang, B.C. Ooi:
-
 CtxPipe: Context-aware Data Preparation Pipeline Construction for Machine Learning. 
 ACM SIGMOD 2025.
 
 </li><li>
 L. Zeng, N. Xing, S. Cai, G. Chen, B.C. Ooi, J. Pei, Y. Wu:
-
 Powering In-Database Dynamic Model Slicing
 for Structured Data Analytics.
-
 VLDB, 2025.
 
 </li><li>
 A. Lee et al:
-
 Deep learning model for automated diagnosis of degenerative cervical spondylosis and altered spinal cord signal on MRI.
-
 The Spine Journal. Sep 2024.
 (medical)
 
@@ -88,91 +73,74 @@ The Spine Journal. Sep 2024.
 X. Luo, et al:
 Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An Adversarial Perspective.
 IEEE Transactions on Information Forensics &amp; Security. 2024.
+  
 </li><li>
 Z. Zhao, S. Cai, , H. Gao, H. Pan , S. Xiang, N. Xing, G. Chen, B. C. Ooi, Y. Shen, Y. Wu, M. Zhang:
-
 NeurDB: An AI-powered
 Autonomous Database Science China Information Sciences, 2024.
 
 </li><li>
 B.C. Ooi, S. Cai, G. Chen, Y. Shen, K-L. Tan, Y. Wu,
 X. Xiao, N. Xing, C. Yue, L. Zeng, M. Zhang, Z. Zhao:
-
-NeurDB: An AI-powered Autonomous Data System.
- 2024.
+NeurDB: An AI-powered Autonomous Data System. 2024.
 
 
 </li><li>
 F. Xiao, S. Cai, G. Chen, H.V. Jagadish, B.C. Ooi, M. Zhang:
-
 VecAug: Unveiling Camouflaged Frauds with Cohort Augmentation for Enhanced Detection.
-
 ACM KDD 2024.
 
 </li><li>
 K. Zheng, H-R. Chua, M. Herchel, H.V. Jagadish, B.C. Ooi, J.W.L. Yip:
-
 Exploiting Negative Samples: A Catalyst for Cohort Discovery in Healthcare Analytics. ICML 2024.
 
 </li><li>
 X. Yang, C. Yue, W. Zhang, Y. Liu, B. C. Ooi, J. Chen:
-
 SecuDB: An In-enclave Privacy-preserving and Tamper-resistant
 Relational Database.
-
 VLDB 2024.
 
 </li><li>
 Y. Zhu, Y. Wu, Z. Luo,, B. C. Ooi, X.Xiao:
-
 Secure and Verifiable Data Collaboration with Low-Cost Zero-Knowledge Proofs. 
 VLDB 2024.
 
 </li><li>
 Q. Cai, K. Zheng, H.V. Jagadish, B.C. Ooi, J.W.L. Yip:
-
 CohortNet: Empowering Cohort Discovery for Interpretable Healthcare Analytics.
-
 VLDB 2024.
 
 </li><li>
 N. Xing, S. Cai, G. Chen, Z. Luo, B.C. Ooi, J. Pei:
-
 Database Native Model Selection: Harnessing Deep Neural
 Networks in Database Systems.
-
 VLDB 2024.
 
 </li><li>
 J. Zhu, S. Cai, F. Deng, B.C. Ooi, W. Zhang:
-
 METER: A Dynamic Concept Adaptation Framework
 for Online Anomaly Detection.
-
 VLDB 2024.
 
 
 </li><li>
 Z.H. Zhao, H. Pan, G. Chen, X. Du, W. Lu, B.C. Ooi:
-
 VeriTxn: Verifiable Transactions for Cloud-Native Databases with Storage Disaggregation.
-
 ACM SIGMOD 2024. (open access)
 
-</li><li> Y. Jiang, X. Luo, Y. Wu, X. Xiao, B.C. Ooi:
+</li><li>
+Y. Jiang, X. Luo, Y. Wu, X. Xiao, B.C. Ooi:
 Protecting Label Distribution in Cross-Silo Federated Learning.
 IEEE S&amp;P 2024.
-
+  
 </li><li>
 Y. Zhu, Y. Wu, Z. Low, B. C. Ooi, X. Xiao:
-
 Robust and Secure Federated Learning with Low-Cost Zero-Knowledge Proof
  2023.
 
 </li><li>
 K. Ren, N.-M. Ho, D. Loghin, T.-T. Nguyen,
 B.C. Ooi, Q.-T. Ta, F. Zhu:
-
 Interoperability in Blockchain: A Survey. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.
 
 </li><li>
@@ -187,57 +155,39 @@ Frontiers in Oncology, 2023. (medical)
 
 </li><li>
 J. Hallinan et al:
-
 A deep learning-based technique for the diagnosis of epidural spinal cord compression on thoracolumbar CT. 
 European Spine Journal, 2023. (medical)
 
 
 </li><li>
 F. Xiao, Y. Wu, M. Zhang, G. Chen, B.C. Ooi:
-
 MINT: Detecting Fraudulent Behaviors from Time-series Relational Data.
-
 VLDB 2023.
 
 </li><li>
-Y. Wu,
-N. Xing,
-G. Chen,
-A. Dinh,
-Z. Luo,
-B.C. Ooi,
-X. Xiao, M. Zhang:
-
+Y. Wu, N. Xing, G. Chen, A. Dinh, Z. Luo, B.C. Ooi, X. Xiao, M. Zhang:
 Falcon: A Privacy-Preserving and Interpretable Vertical Federated Learning System.
-
 VLDB 2023.
 
 </li><li>
 H. Gao, C. Yue, A. Dinh, Z. Huang, B.C. Ooi:
-
 Enabling Secure and Efficient Data Analytics Pipeline Evolution with Trusted Execution Environment.
 VLDB 2023.
 
 </li><li>
 C. Yue, M. Zhang, C. Zhu, G. Chen, D. Loghin, B.C. Ooi:
-
 VeriBench: Analyzing the Performance of Database Systems with Verifiability.
-
 VLDB 2023.
 
 
 </li><li>
 C. Yue, TTA. Dinh, Z. Xie, M. Zhang, G. Chen, B.C. Ooi, X. Xiao:
-
 GlassDB: An Efficient Verifiable Ledger Database System Through Transparency.
-
 VLDB 2023.
 
 </li><li>
 P. Jia, S. Cai, B. C. Ooi, P. Wang, Y. Xiong:
-
 Robust and Transferable Log-based Anomaly Detection.
-
 ACM SIGMOD 2023.
 
 </li><li>
@@ -247,272 +197,217 @@ ACM SIGMOD 2023.
 
 </li><li>
 Y. Wang, Y. Wu, X. Chen, G. Feng, B. C. Ooi:
-
 Incentive-Aware Decentralized Data Collaboration.
-
 ACM SIGMOD 2023.
 
 </li><li>
 Z. Luo, S. Cai, Y. Wang, B. C. Ooi:
-
 Regularized Pairwise Relationship based Analytics for Structured Data.
-
 ACM SIGMOD 2023.
 
 </li><li>
 Z. Lv, W. Zhang, S. Zhang, K. Kuang, F. Wang, Y. Wang, Z. Chen,
 T. Shen, H. Yang, B. C. Ooi, and F. Wu:
-
 DUET: A Tuning-Free Device-Cloud Collaborative Parameters Generation Framework for Efficient Device Model Generalization.
-
 The Web Conference 2023.
 
 </li><li>
 B. C. Ooi, G. Chen, M. Z. Shou, K.-L. Tan, A. Tung, X. Xiao, J. W. L. Yip, B.Zhang, M. Zhang:
-
 The Metaverse Data Deluge: What Can We Do About It?, IEEE ICDE, 2023.
-
 
 </li><li>
 
 K. Zheng et al:
-
 A Dietary Nutrition-aided Healthcare Platform via Effective
 Food Recognition on a Localized Singaporean Food Dataset.
 2023
 
-
 </li><li>
 K. Zheng, Tnguyen, C. Liu, C.E. Goh, B. C. Ooi:
-
 eDental: Managing Your Dental Care in Diet Diaries.
-
 ACM CIKM 2022. (demo)
 
 </li><li>
 D. S. W. Lim et al:
-
 Improved Productivity Using Deep Learning Assisted Reporting for MRI Lumbar Spine.
-
 RSNA Radiology 2022. (medical)
 
 </li><li>
 W. Ong, et al:
-
 Application of Artificial Intelligence Methods for Imaging of Spinal Metastasis.
-
 Cancer, 14(16), 2022. (medical)
 
 </li><li>
 J. Hallinan et al:
-
 Deep Learning Model for Classifying Metastatic Epidural Spinal Cord Compression on MRI.
-
 Frontiers in Oncology. 2022. (medical)
 
 </li><li>
 W. Zhang, L. Zhu, J. Hallinan, S. Zhang, A. Makmur, Q. Cai and B. C. Ooi:
-
 BoostMIS: Boosting Medical Image Semi-supervised Learning
 with Adaptive Pseudo Labeling and Informative Active Annotation. 
 CVPR 2022.
 
 </li><li>
 Y. Shu, S Cai, Z Dai, BC Ooi, B.K.H Low:
-
 NASI: Label-and Data-agnostic Neural Architecture Search at Initialization.
-
 ICLR 2022.
+  
 </li><li>
 P. Ruan, Y. Kanza, B. C. Ooi, D. Srivastava:
-
 LedgerView: Access-Control Views on Hyperledger Fabric.
-
 ACM SIGMOD 2022.
+  
 </li><li>
 Y. Wu, A. Dinh, G. Hu, M. Zhang, Y.M. Chee, B. C. Ooi:
-
 Serverless Data Science - Are We There Yet? A Case Study of Model Serving.
-
 ACM SIGMOD 2022.
+  
 </li><li>
 K. Zheng, S. Cai, H.-R. Chia, M. Hershel, M. Zhang, B. C. Ooi:
-
 DyHealth: Making Neural Networks Dynamic for Effective Healthcare Analytics.
 
 VLDB 2022.
 </li><li>
 Z. Ge, D. Loghin, B.C. Ooi, P. Ruan, T. Wang:
-
 Hybrid Blockchain Database Systems: Design and Performance,
 VLDB 2022.
+  
 </li><li>
  X. Luo, X. Xiao, Y. Wu, J. Liu, B. C. Ooi:
- 
-Fusion-Denoising Attack on InstaHide with Data Augmentation. AAAI 2022.
+ Fusion-Denoising Attack on InstaHide with Data Augmentation. AAAI 2022.
+  
 </li><li>
 Q. Cai, K. Zheng, B. C. Ooi, W. Wang, C. Yao:
-
 ELDA: Learning Explicit Dual-Interactions for Healthcare Analytics.
 IEEE International Conference on Data Engineering (ICDE), 2022.
+  
 </li><li>
 H. R. Chua et al:
-
 Healthcare Analytics with Time-invariant and Time-variant Feature Importance to Predict Hospital-Acquired Acute Kidney Injury: Observational Longitudinal Study.   JMIR. 2021 (medical)
+  
 </li><li>
 N. Xing et al:
-
 SINGA-Easy: An Easy-to-Use Framework for MultiModal Analysis.
-
 ACM Multimedia 2021.
 (code to be released as part of Apache SINGA v 4.0; v3.2.0 is being released)
+  
 </li><li>
 L. Zhu, L. L. Chan, T. K. Ng, K. Yang, M. Zhang, B. C. Ooi:
 Semi-Supervised Unpaired Multi-Modal Learning for Label-Efficient Medical Image
 Segmentation.
 24th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021.
+  
 </li><li>
 J. Halinan et al:
-
 Deep Learning Model for Automated Detection and Classification of Central Canal, Lateral Recess, and Neural Foraminal Stenosis at Lumbar Spine MRI.
 RSNA Radiology 2021. (medical)
+  
 </li><li>
 S. Cai, K. Zheng, G. Chen, H.V. Jagadish, B.C. Ooi, M. Zhang:
-
 ARM-Net: Adaptive Relation Modeling Network for Structured Data.
-
 ACM SIGMOD 2021. 
+  
 </li><li>
-K. Zheng,
-G. Chen,
-M Herschel,
-K.Y. Ngiam,
-B. C. Ooi,
-J. Gao:
-
+K. Zheng, G. Chen, M Herschel, K.Y. Ngiam, B. C. Ooi, J. Gao:
 PACE: Learning Effective Task Decomposition for Human-in-the-loop Healthcare Delivery. 
-
 ACM SIGMOD 2021.
+  
 </li><li>
-C. Cui,
-W. Wang,
-M. Zhang,
-G. Chen,
-Z. Luo,
-B. C. Ooi:
-
+C. Cui, W. Wang, M. Zhang, G. Chen, Z. Luo, B. C. Ooi:
 AlphaEvolve: A Learning Framework to Discover Novel Alphas in Quantitative Investment.
-
 ACM SIGMOD 2021. (patent filed)
+  
 </li><li>
 P. Ruan, A. Dinh, D. Loghin, M. Zhang, G. Chen, Q. Lin, B.C. Ooi:
-
 Blockchains vs. Distributed Databases: Dichotomy and Fusion.
-
 ACM SIGMOD 2021.
+  
 </li><li>
 K. Yang, Z. Luo, J. Guo, J. Zhao, B.C. Ooi, B. Xie:
 LDA-Reg: Knowledge Driven Regularizationusing External Corpora.
 IEEE TKDE, 2021.
+  
 </li><li>
 X. Luo, Y. Wu, X. Xiao, B.C. Ooi:
-
 Feature Inference Attack on Model Predictions in Vertical Federated Learning.
-
 IEEE International Conference on Data Engineering (ICDE), 2021.
+  
 </li><li>
 Z. Luo, S.H. Yeung, M. Zhang, K. Zheng, L. Zhu, G. Chen, F. Fan, Q. Lin, K.Y. Ngiam, B.C. Ooi:
-
-MLCask: Efficient Management of ComponentEvolution in Collaborative Data Analytics Pipelines. 
-
+MLCask: Efficient Management of Component Evolution in Collaborative Data Analytics Pipelines. 
 IEEE International Conference on Data Engineering (ICDE), 2021.
+  
 </li><li>
 P. Zhou, Q. Lin, D. Loghin, B. C. Ooi, Y. Wu, H. Yu:
-
 Communication-efficient Decentralized Machine Learning over Heterogeneous Networks
-
 IEEE International Conference on Data Engineering (ICDE), 2021.
+  
 </li><li>
 Z. Luo, S. Cai, C. Cui, B. C. Ooi, Y. Yang:
-
 Adaptive Knowledge Driven Regularization for Deep Neural Networks.
-
 AAAI 2021
+  
 </li><li>
 Y. Wu, A. Dinh, G. Hu, M. Zhang, Y.M. Chee, B.C. Ooi:
-
 Serverless Model Serving for Data Science. March 2021.
+  
 </li><li>
 Y. Wu, S. Cai, X. Xiao, G. Chen, B.C. Ooi:
-
 Privacy Preserving Vertical Federated Learning for
-Tree-based Models
-. VLDB 2020.
+Tree-based Models. VLDB 2020.
+  
 </li><li>
 P. Ruan, A. Dinh, Q. Lin, M. Zhang, G. Chen, B. C. Ooi:
-
 Revealing Every Story of Data in Blockchain Systems.
-
 ACM SIGMOD Highlight Award paper, 2020.
+  
 </li><li>
 C. Yue.  Z. Xue, M. Zhang, G. Chen, B. C. Ooi, S. Wang, X. Xiao:
-
 Analysis of Indexing Structures for Immutable Data. ACM SIGMOD 2020.
+  
 </li><li>
 K. Zheng, S. Cai, H. R. Chua, W. Wang, K. Y. Ngiam, B.C. Ooi:
-
 TRACER: A Framework for Facilitating Accurate and Interpretable Analytics for High Stakes Applications. 
-
 ACM SIGMOD 2020.
+  
 </li><li>
 P. Ruan, D. Loghin, Q.-T. Ta, M Zhang, G. Chen, B. C. Ooi:
-
 A Transactional Perspective on Execute-Order-Validate Blockchains,
-
 ACM SIGMOD 2020.
 
 </li><li>
 Z. Xie, H. Ying, C. Yue, M. Zhang, G. Chen, B. C. Ooi:
- 
-Cool: a COhort OnLine analytical processing system.
-
+ Cool: a COhort OnLine analytical processing system.
 IEEE International Conference on Data Engineering, 2020.
+  
 </li><li>
 Q. Lin et al. 
 ForkBase: Immutable, Tamper-evident Storage
 Substrate for Branchable Applications.
-
 IEEE International Conference on Data Engineering, 2020, demo.
+  
 </li><li>
 D. Loghin, S. Cai, G. Chen, T. T. A. Dinh, F. Fan, Q. Lin, J. Ng, B. C. Ooi, X. Sun, Q.-T. Ta, W. Wang, X. Xiao, Y. Yang, M. Zhang, Z. Zhang:
-
   The Disruptions of 5G on
-Data-driven Technologies and Applications.
-IEEE Transactions on Knowledge and Data Engineering, 32(6), 1979-1998 June 2020. (open access).
+Data-driven Technologies and Applications. IEEE Transactions on Knowledge and Data Engineering, 32(6), 1979-1998 June 2020. (open access).
 
 </li><li>
-W. Wang,
-M. Zhang,
-G. Chen,
-H. V. Jagadish, B. C. Ooi and K.-L. Tan:
-
+W. Wang, M. Zhang, G. Chen, H. V. Jagadish, B. C. Ooi and K.-L. Tan:
 Database Meets Deep Learning: Challenges and
 Opportunities.
-
 Updated -- 2019.
 
 </li><li>
 A. Dinh, A. Datta, B. C. Ooi:
-
 A Blueprint For Interoperable Blockhains.
-
 2019.
+  
 </li><li>
 P. Ruan, G. Chen, A. Dinh, Q. Lin, D. Loghin, B. C. Ooi, M. Zhang:
-
 Blockchains and Distributed Databases: a Twin Study.
-
 2019.
+  
 </li><li>
 B. C. Ooi, G. Chen, D. Loghin, W. Wang, M. Zhang:
 
