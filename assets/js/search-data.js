@@ -3,28 +3,35 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-titles-about",
-    title: "titles.about",
+    id: "nav-about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-titles-publications",
-          title: "titles.publications",
+  },{id: "nav-publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-titles-cv",
-          title: "titles.cv",
+        },{id: "nav-cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-titles-activities",
-          title: "titles.activities",
+        },{id: "nav-简历",
+          title: "简历",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cncv/";
+          },
+        },{id: "nav-professional-activities",
+          title: "Professional Activities",
           description: "",
           section: "Navigation",
           handler: () => {
