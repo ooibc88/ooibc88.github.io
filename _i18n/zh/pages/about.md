@@ -12,35 +12,35 @@
 <table>
 <tbody>
 <tr>
-<td> 2024-08-23 </td>
+<td> 2024-08 </td>
 <td> <a href="https://ccf.org.cn/cncc2024/speaker_d_4144"> CNCC 2024特邀报告 - 数据价值创造：从零到一，再到无穷 </a></td>
 </tr>
 <tr>
-<td> 2024-06-22 </td>
+<td> 2024-06 </td>
 <td> <a href="http://www.cs.zju.edu.cn/csen/2024/0622/c38564a2938308/page.htm"> 获SIGMOD Systems Award – 我校中科院外籍院士三度斩获SIGMOD重磅奖项! </a>
 </td>
 </tr>
 <tr>
-<td> 2023-11-24 </td>
+<td> 2023-11 </td>
 <td> <a href="http://www.cs.zju.edu.cn/csen/2023/1124/c38564a2830297/page.htm"> 获评中科院外籍院士 - 祝贺！我院求是讲座教授黄铭钧当选中国科学院外籍院士 </a>
 </td>
 </tr>
 <tr>
-<td> 2020-06-24 </td>
+<td> 2020-06 </td>
 <td> <a href="http://www.cs.zju.edu.cn/csen/2020/0624/c26739a2158031/page.psp"> 获SIGMOD Edgar F. Codd Innovations Award - 我院讲座教授黄铭钧院士获2020 ACM SIGMOD Edgar F.Codd创新奖 </a></td>
 </tr>
 <tr>
-<td> 2018-09-10 </td>
+<td> 2018-09 </td>
 <td> <a href="https://cncc2018.ccf.org.cn/cms/news/100000/0000000001/2018/9/10/a2f0c22e20774461901e0e2f41e4f44e.shtml"> CNCC 2018特邀报告 - 企业级区块链系统再思考 </a>
 </td>
 </tr>
 <tr>
-<td> 2017-02-24 </td>
+<td> 2017-02 </td>
 <td> <a href="https://www.ccf.org.cn/Awards/Awards/2017-02-24/583468.shtml"> 获CCF海外杰出贡献奖 - 2016CCF海外杰出贡献奖授予黄铭钧教授 </a>
 </td>
 </tr>
 <tr>
-<td> 2016-10-21 </td>
+<td> 2016-10 </td>
 <td> <a href="https://cncc2018.ccf.org.cn/2016/struct/22.htm"> CNCC 2016 特邀报告 - Developing end-to-end Data Processing and Analytics Solutions </a>
 </td>
 </tr>
