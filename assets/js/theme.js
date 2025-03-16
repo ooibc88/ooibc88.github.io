@@ -56,7 +56,7 @@ let applyTheme = () => {
   let tables = document.getElementsByTagName("table");
   for (let i = 0; i < tables.length; i++) {
     if (theme == "dark") {
-      tables[i].classList.add("table-dark");
+      tables[i].classList.remove("table-dark");
     } else {
       tables[i].classList.remove("table-dark");
     }
