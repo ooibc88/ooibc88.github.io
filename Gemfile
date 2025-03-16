@@ -22,6 +22,8 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
 
+    gem 'jekyll-multiple-languages-plugin'
+
     gem 'classifier-reborn'  # used for content categorization during the build
 end
 

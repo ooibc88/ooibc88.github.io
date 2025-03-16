@@ -125,6 +125,13 @@
               </button>
             </li>
           {% endif %}
+          <li calss="nav-item active">
+            {% if site.lang == "en" %}
+            <a class="nav-link" href="{{site.baseurl_root}}{{page.url}}"> ZH </a>
+            {% elsif site.lang == "zh" %}
+            <a class="nav-link" href="{{site.baseurl_root}}/en{{page.url}}"> EN </a>
+            {% endif %}
+          </li>
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
             <li class="toggle-container">
