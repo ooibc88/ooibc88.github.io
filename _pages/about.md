@@ -14,6 +14,11 @@ profile:
     <p>浙江大学</p>
     <p>浙江省宁波市鄞州区学府路5号9号楼</p>
 
+  more_info_en: >
+    <p>School of Software Technology</p>
+    <p>Zhejiang University</p>
+    <p>Building 9, No. 5 Xuefu Road, Yinzhou District, Ningbo City, Zhejiang Province, China.</p>
+
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
