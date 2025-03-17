@@ -265,7 +265,7 @@ IEEE International Conference on Data Engineering (ICDE). 2022.
   
 </li><li>
 H. R. Chua et al:
-Healthcare Analytics with Time-invariant and Time-variant Feature Importance to Predict Hospital-Acquired Acute Kidney Injury: Observational Longitudinal Study. JMIR. 2021 (medical)
+Healthcare Analytics with Time-invariant and Time-variant Feature Importance to Predict Hospital-Acquired Acute Kidney Injury: Observational Longitudinal Study. JMIR. 2021. (medical)
   
 </li><li>
 N. Xing et al:
