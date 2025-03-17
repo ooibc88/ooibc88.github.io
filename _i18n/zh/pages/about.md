@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td> 2024-06 </td>
-<td> <a href="http://www.cs.zju.edu.cn/csen/2024/0622/c38564a2938308/page.htm"> 获SIGMOD Systems Award – 我校中科院外籍院士三度斩获SIGMOD重磅奖项! </a>
+<td> <a href="http://www.cs.zju.edu.cn/csen/2024/0622/c38564a2938308/page.htm"> 获SIGMOD Systems Award - 我校中科院外籍院士三度斩获SIGMOD重磅奖项! </a>
 </td>
 </tr>
 <tr>
