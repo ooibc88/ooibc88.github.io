@@ -15,7 +15,7 @@ PC member.
 </li><li> ACM International Conference on Management of Data (SIGMOD), 2021.
 AE.
 
-</li><li> EDBT, ToT paper selection committee. 2021.
+</li><li> EDBT, ToT paper selection committee, 2021.
 
 </li><li> ACM Symposium on Cloud Computing (SoCC), 2020. PC Chair.
 
@@ -78,7 +78,7 @@ PC Chair.
 <ol>
 
 <li>
-ACM/IMS Transactions on Data Science (TDS). Founding Editor-in-Chief, 2018-2022.
+ACM/IMS Transactions on Data Science (TDS). Founding Editor-in-Chief. 2018-2022.
 
 </li><li>
 ACM Communications of ACM (CACM). Editor. 2015 -
@@ -87,27 +87,27 @@ ACM Communications of ACM (CACM). Editor. 2015 -
 IEEE Transactions on Cloud Computing. Editor. 2013-2019.
 
 </li><li>
-Elsevier Journal of Big Data Research (JBDR). Founding co-Editor-in-Chief, 2014-2016.
+Elsevier Journal of Big Data Research (JBDR). Founding co-Editor-in-Chief. 2014-2016.
 
 </li><li>
 IEEE Transactions on Knowledge and Data Engineering (TKDE). 
-Editor-in-Chief, 2009-2012.
+Editor-in-Chief. 2009-2012.
 
 </li><li>
-Springer Distributed and Parallel Databases. Editor, 2008-2013.
+Springer Distributed and Parallel Databases. Editor. 2008-2013.
 
 </li><li>
-IEEE Transactions on Knowledge and Data Engineering. Editor, 2003-2007.
+IEEE Transactions on Knowledge and Data Engineering. Editor. 2003-2007.
 
 
-</li><li> VLDB Journal. Springer Verlag, Editor, 2002-2007. </li>
+</li><li> VLDB Journal. Springer Verlag, Editor. 2002-2007. </li>
 
 <li>
 International Journal of Geographical Information Systems (Taylor&amp;Francis).
-Editor, 1995-2005.</li>
+Editor. 1995-2005.</li>
 
 <li>
-Geoinformatica (Kluwer Academics). Editor, 1997--2005. </li>
+Geoinformatica (Kluwer Academics). Editor. 1997--2005. </li>
 </ol>
 
 ### Trustee
@@ -116,7 +116,7 @@ Geoinformatica (Kluwer Academics). Editor, 1997--2005. </li>
 <li> VLDB Endowment, Trustee board member. 2006-2017. Secretary: 2010-2013.
 President: 2014-2017.
 </li>
-<li> CCF, Trustee, 2020-2024.
+<li> CCF, Trustee. 2020-2024.
 </li></ol>
 
 ### Others
