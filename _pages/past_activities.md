@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /past-professional/
-title: Past Professional Activities
+title: blank
 nav: false
 ---
 
