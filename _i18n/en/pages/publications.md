@@ -63,14 +63,9 @@ Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An Adversarial
 IEEE Transactions on Information Forensics &amp; Security. 2024.
   
 </li><li>
-Z. Zhao, S. Cai, , H. Gao, H. Pan , S. Xiang, N. Xing, G. Chen, B. C. Ooi, Y. Shen, Y. Wu, M. Zhang:
-NeurDB: An AI-powered
-Autonomous Database Science China Information Sciences, 2024.
-
-</li><li>
 B.C. Ooi, S. Cai, G. Chen, Y. Shen, K-L. Tan, Y. Wu,
 X. Xiao, N. Xing, C. Yue, L. Zeng, M. Zhang, Z. Zhao:
-NeurDB: An AI-powered Autonomous Data System. 2024.
+NeurDB: An AI-powered Autonomous Data System. Science China Information Sciences. 2024.
 
 
 </li><li>
@@ -729,14 +724,6 @@ W. Lu, X. Du, M. Hadjieleftheriou, B. C. Ooi:
 Efficiently Supporting Edit Distance based String Similarity Search Using B+-trees. 
 IEEE Transactions on Knowledge and Data Engineering, 2014. 
   
-</li><li>
-Database Research at the National University of Singapore, SIGMOD Record, 2013.
-  
-</li><li>
-J. Gao, X. Liu, B. C. Ooi, H. Wang, G. Chen:
-An Online Cost Sensitive Decision-Making Method in Crowdsourcing Systems.
-ACM Int'l. Conference on Management of Data (SIGMOD), 2013. 
-  
 </li>
 </ol>
 
@@ -784,45 +771,19 @@ New-York, (1994).
 
 <ol>
 <li>
-SSD'93, FEGIS'93, DBISP2P'04, DASFAA'05, VLDB'05, ACM SIGMOD'07, VLDB'08, ICDE'12, IIEEE BigData'15, IEEE ICDE'18, ACM SoCC'20.
+SSD'93, FEGIS'93, DBISP2P'04, DASFAA'05, VLDB'05, ACM SIGMOD'07, VLDB'08, IEEE ICDE'12, IEEE BigData'15, IEEE ICDE'18, ACM SoCC'20.
 </li>
 </ol>
-
-### Unpublished/Technical Papers
-
-<ol>
-<li>
-Spatial
-Indexing Structures (long survey), 1993.
-(submitted to acm comp. survey in 1994, updated but was never resubmitted)
-  
-</li><li>
-Chi-Tree:
-A New Class Hierarchy Access Method for OODB, 1994.
-
-</li><li>
-Efficient
-Scheduling of Page Access in Join Processing. 1994.
-
-</li><li>
-An experimental study of temporal indexes, 1996
-
-</li><li>
-W.S. Ng, P. Kalnis, B. C. Ooi, K.L. Tan:
-POEMS:
-A transformable architecture for managing system overload. 2004.
-(reject from SIGMOD05)
-
-</li><li>
-Database support for online games? 
-2008
-
-</li></ol>
 
 ### Selected Talks
 
 <ol>
 <li>
+  B. C. Ooi: 数据价值创造：从零到一，再到无穷. CNCC 2024. Keynote.
+</li>
+<li>
+  B. C. Ooi: 5 minute pitch on "Practical integration of AI and Data Systems"  at Database Self Assessment Meeting, MIT, 2023.
+</li><li>
 B.C. Ooi:
 Architecture of a Verifiable Database System for Supporting Digital Trust.
 IEEE ICDE 2022. Keynote.
@@ -833,13 +794,17 @@ What Can AI do for End-to-End Data Analytics?
 DASFAA 2021. Keynote.
 
 </li><li>
+  B. C. Ooi: 企业级区块链系统再思考. CNCC 2018. Keynote.
+</li><li>
 B. C. Ooi:
 Healthcare Transformation from Data and System Perspectives.
 VLDB 2018. Keynote.
-  
+
+</li><li>
+  B. C. Ooi: Developing end-to-end Data Processing and Analytics Solutions. CNCC 2016. Keynote.
 </li><li>
 B. C. Ooi:
-5 minute  pitch at Beckman Database Self Assessment Meeting, UCI,  14-15, October, 2013.
+5 minute pitch at Beckman Database Self Assessment Meeting, UCI,  14-15, October, 2013.
 
 </li><li>
 B. C. Ooi:
@@ -905,8 +870,8 @@ The Fifth Asia Pacific Web Conference (APWeb'03). Xian, China. September 2003. L
 
 </li><li>
 B. C. Ooi, K. L. Tan, H. Lu and A. Zhou
-P2P: Harnessing and Riding on Peers. Post-VLDB and 19th NDBC. Keynote.
-2002.
+P2P: Harnessing and Riding on Peers. Post-VLDB and 19th NDBC. 
+2002. Keynote.
 
 </li><li>
 B. C. Ooi, K.L. Tan, and C. Yu:

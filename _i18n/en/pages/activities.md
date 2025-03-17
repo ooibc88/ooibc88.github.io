@@ -1,6 +1,12 @@
 ### Recent Conferences
 <ol>
-<li> International Conference on Very Large Data Bases (VLDB), 2022.
+<li> International Conference on Very Large Data Bases (VLDB), 2025.
+AE.
+
+</li><li> International Conference on Very Large Data Bases (VLDB), 2024.
+AE.
+
+</li><li> International Conference on Very Large Data Bases (VLDB), 2022.
 AE.
 
 </li><li> International Conference on Very Large Data Bases (VLDB), 2021.
@@ -72,7 +78,7 @@ PC Chair.
 <ol>
 
 <li>
-ACM/IMS Transactions on Data Science (TDS). Founding Editor-in-Chief, 2018-.
+ACM/IMS Transactions on Data Science (TDS). Founding Editor-in-Chief, 2018-2022.
 
 </li><li>
 ACM Communications of ACM (CACM). Editor. 2015 -
@@ -85,23 +91,23 @@ Elsevier Journal of Big Data Research (JBDR). Founding co-Editor-in-Chief, 2014-
 
 </li><li>
 IEEE Transactions on Knowledge and Data Engineering (TKDE). 
-Editor-in-Chief, 2009-2012
+Editor-in-Chief, 2009-2012.
 
 </li><li>
 Springer Distributed and Parallel Databases. Editor, 2008-2013.
 
 </li><li>
-IEEE Transactions on Knowledge and Data Engineering. Editor, 2003-2007
+IEEE Transactions on Knowledge and Data Engineering. Editor, 2003-2007.
 
 
-</li><li> VLDB Journal. Springer Verlag, Editor, 2002-2007 </li>
+</li><li> VLDB Journal. Springer Verlag, Editor, 2002-2007. </li>
 
 <li>
 International Journal of Geographical Information Systems (Taylor&amp;Francis).
-Editor, 1995-2005</li>
+Editor, 1995-2005.</li>
 
 <li>
-Geoinformatica (Kluwer Academics). Editor, 1997--2005 </li>
+Geoinformatica (Kluwer Academics). Editor, 1997--2005. </li>
 </ol>
 
 ### Trustee
@@ -109,6 +115,8 @@ Geoinformatica (Kluwer Academics). Editor, 1997--2005 </li>
 <ol>
 <li> VLDB Endowment, Trustee board member. 2006-2017. Secretary: 2010-2013.
 President: 2014-2017.
+</li>
+<li> CCF, Trustee, 2020-2024.
 </li></ol>
 
 ### Others
