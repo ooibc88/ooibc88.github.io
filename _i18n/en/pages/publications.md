@@ -776,7 +776,7 @@ SSD'93, FEGIS'93, DBISP2P'04, DASFAA'05, VLDB'05, ACM SIGMOD'07, VLDB'08, IEEE I
 
 <ol>
 <li>
-  B. C. Ooi: 数据价值创造：从零到一，再到无穷. CNCC 2024. Keynote.
+  B. C. Ooi: 数据价值创造：从0到1，再到无穷. CNCC 2024. Keynote.
 </li>
 <li>
   B. C. Ooi: 5 minute pitch on "Practical integration of AI and Data Systems" at Database Self Assessment Meeting, MIT, 2023.
@@ -791,14 +791,14 @@ What Can AI do for End-to-End Data Analytics?
 DASFAA 2021. Keynote.
 
 </li><li>
-  B. C. Ooi: 企业级区块链系统再思考. CNCC 2018. Keynote.
+  B. C. Ooi: 企业级区块链系统：从0到1，再到无穷. CNCC 2018. Keynote.
 </li><li>
 B. C. Ooi:
 Healthcare Transformation from Data and System Perspectives.
 VLDB 2018. Keynote.
 
 </li><li>
-  B. C. Ooi: Developing end-to-end Data Processing and Analytics Solutions. CNCC 2016. Keynote.
+  B. C. Ooi: 端到端的数据处理，管理，和分析系统. CNCC 2016. Keynote.
 </li><li>
 B. C. Ooi:
 5 minute pitch at Beckman Database Self Assessment Meeting, UCI, 14-15, October, 2013.
