@@ -12,7 +12,7 @@
 <tbody>
 <tr>
 <td> 2024-08 </td>
-<td> <a href="https://ccf.org.cn/cncc2024/speaker_d_4144"> CNCC 2024特邀报告 - 数据价值创造：从零到一，再到无穷 </a></td>
+<td> <a href="https://ccf.org.cn/cncc2024/speaker_d_4144"> CNCC 2024特邀报告 - 数据价值创造：从0到1，再到无穷 </a></td>
 </tr>
 <tr>
 <td> 2024-06 </td>
@@ -30,7 +30,7 @@
 </tr>
 <tr>
 <td> 2018-09 </td>
-<td> <a href="https://cncc2018.ccf.org.cn/cms/news/100000/0000000001/2018/9/10/a2f0c22e20774461901e0e2f41e4f44e.shtml"> CNCC 2018特邀报告 - 企业级区块链系统再思考 </a>
+<td> <a href="https://cncc2018.ccf.org.cn/cms/news/100000/0000000001/2018/9/10/a2f0c22e20774461901e0e2f41e4f44e.shtml"> CNCC 2018特邀报告 - 企业级区块链系统：从0到1，再到无穷 </a>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@
 </tr>
 <tr>
 <td> 2016-10 </td>
-<td> <a href="https://cncc2018.ccf.org.cn/2016/struct/22.htm"> CNCC 2016 特邀报告 - Developing end-to-end Data Processing and Analytics Solutions </a>
+<td> <a href="https://cncc2018.ccf.org.cn/2016/struct/22.htm"> CNCC 2016 特邀报告 - 端到端的数据处理，管理，和分析系统 </a>
 </td>
 </tr>
 </tbody></table>
