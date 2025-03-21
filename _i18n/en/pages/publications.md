@@ -65,6 +65,9 @@ Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An Adversarial
 IEEE Transactions on Information Forensics &amp; Security. 2024.
 
 </li><li>
+B.C. Ooi, S. Cai, G. Chen, Y. Shen, K-L. Tan, Y. Wu, X. Xiao, N. Xing, C. Yue, L. Zeng, M. Zhang, Z. Zhao: NeurDB: An AI-powered Autonomous Data System. Science China Information Sciences. 2024.
+
+</li><li>
 F. Xiao, S. Cai, G. Chen, H.V. Jagadish, B.C. Ooi, M. Zhang:
 VecAug: Unveiling Camouflaged Frauds with Cohort Augmentation for Enhanced Detection.
 ACM KDD 2024.
