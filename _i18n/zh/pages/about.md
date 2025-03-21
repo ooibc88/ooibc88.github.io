@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td> 2020-06 </td>
-<td> <a href="http://www.cs.zju.edu.cn/csen/2020/0624/c26739a2158031/page.psp"> 获SIGMOD Edgar F. Codd Innovations Award - 我院讲座教授黄铭钧院士获2020 ACM SIGMOD Edgar F.Codd创新奖 </a></td>
+<td> <a href="http://www.cs.zju.edu.cn/csen/2020/0624/c26739a2158031/page.psp"> 获SIGMOD EF Codd Innovations Award - 我院讲座教授黄铭钧院士获2020 ACM SIGMOD Edgar F. Codd创新奖 </a></td>
 </tr>
 <tr>
 <td> 2018-09 </td>
