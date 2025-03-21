@@ -13,7 +13,7 @@ He had served as a co-chair of the ACM SIGMOD Jim Gray Best Thesis Award committ
 
 Beng Chin had participated in the last four once-every-five-years database self assessment meetings: Claremont, Berkeley 2008, Beckman, Irvine 2013, Seattle 2018, and Boston, 2023. He has delivered / will deliver keynotes at CNCC'16, CNCC'18, CNCC'24 CHINC'18, VLDB'18, NDBC'19, DASFAA'21, IEEE ICDE'22 etc.
 
-Beng Chin is serving as a non-executive and independent director of ComfortDelgro, VICOM and AlDigi Holdings, a member of Hangzhou Government AI Development Committee (AI TOP 30), Suzhou AI Strategy Committee.
+Beng Chin is serving as a non-executive and independent director of ComfortDelgro, VICOM and AlDigi Holdings. He served as a member of Hangzhou Government AI Development Committee (AI TOP 30), Suzhou AI Strategy Committee.
 
 -----------------------------------------
 

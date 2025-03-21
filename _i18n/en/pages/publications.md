@@ -9,6 +9,8 @@
 
 - B. C. Ooi, G. Chen, M. Z. Shou, K.-L. Tan, A. Tung, X. Xiao, J. W. L. Yip, B.Zhang, M. Zhang: The Metaverse Data Deluge: What Can We Do About It?, IEEE ICDE, 2023.
 
+- B.C. Ooi, S. Cai, G. Chen, Y. Shen, K-L. Tan, Y. Wu, X. Xiao, N. Xing, C. Yue, L. Zeng, M. Zhang, Z. Zhao: NeurDB: An AI-powered Autonomous Data System. Science China Information Sciences. 2024.
+
 -----------------------------------------
 
 ### Selected Papers/Chapters/PPTS
@@ -61,11 +63,6 @@ The Spine Journal. Sep 2024.
 X. Luo, et al:
 Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An Adversarial Perspective.
 IEEE Transactions on Information Forensics &amp; Security. 2024.
-  
-</li><li>
-B.C. Ooi, S. Cai, G. Chen, Y. Shen, K-L. Tan, Y. Wu,
-X. Xiao, N. Xing, C. Yue, L. Zeng, M. Zhang, Z. Zhao:
-NeurDB: An AI-powered Autonomous Data System. Science China Information Sciences. 2024.
 
 </li><li>
 F. Xiao, S. Cai, G. Chen, H.V. Jagadish, B.C. Ooi, M. Zhang:
