@@ -1,4 +1,4 @@
-<img src="https://www.comp.nus.edu.sg/~ooibc/surviving.jpg" width="100%">
+<img src="../assets/img/surviving-en.jpg" width="100%">
 
 # Philosophy:
 
