@@ -24,3 +24,19 @@ Beng Chin's research focuses on **the fundamental data and systems abstractions 
 With the ubiquity of Big Data and fusion of applications and technologies, the projects are related in many aspects. Beng Chin approaches research problems and system design with the philosophy that all algorithms and structures should be simple, elegant and yet efficient so that they are implementable, maintainable and scalable in actual applications, and all systems must therefore be efficient, scalable, extensible and easy to use.
 
 **His view and philosophy on administration and setting up a strong database systems group** could be found in 2011 SIGMOD Record interview.
+
+------------------------------------------
+
+# JOIN US
+
+Our team is recruiting master students, Ph.D. candidates, and postdoctoral researchers:
+
+- Background in Computer Science, Software Engineering, Mathematics, or related fields, with a solid foundation in programming and algorithms
+
+- Publication in top-tier conferences or outstanding engineering skills in areas including databases, distributed systems, data processing and analysis, or artificial intelligence
+
+- Good communication skills in English
+
+- Postdoctoral researchers are expected to publish high-quality papers in top-tier conferences or journals
+
+Contact: 0620515@zju.edu.cn
