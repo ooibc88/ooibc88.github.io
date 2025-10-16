@@ -18,9 +18,34 @@
 <ol>
 
 <li>
-T. Lin et al:
-HealthGPT: A Medical Large Vision-Language Model for Unifying
-Comprehension and Generation via Heterogeneous Knowledge Adaptation. 2025. 
+S. Xiang, S. Wang, X. Xiao, C. Yue, Z. Zhao, B. C. Ooi: NeurStore: Efficient In-database Deep Learning Model Management System. ACM SIGMOD 2026.
+
+</li><li>
+K. Zheng, H.-R. Chua, B.C. Ooi: Detecting Data Deviation in Electronic Health Records. NEURIPS 2025.
+
+</li><li>
+Y. Xie, S. Li, T. Lin, Z. W, C. Yang, Y. Zhong, , W. Zhang, H. Li, H.Jiang, F. Zhang, Q. Chen, J. Xiao, Y. Zhuang, B. C. Ooi: Heartcare Suite: Multi-dimensional Understanding of ECG with Raw Multi-lead Signal Modeling. 2025.
+
+</li><li>
+S. Li, T. Lin, L. Lin, W. Zhang, J. Liu, X. Yang, J. Li, Y. He, X. Song, J. Xiao, Y. Zhuang, B. C. Ooi: EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model ACM Multimedia 2025. Model and Data
+
+</li><li>
+T. Lin, W. Zhang, S. LI, Y. Yuan, B. Yu, H. Li, W. He, H. Jiang, M. Li, X. Song, S. Tang, J. Xiao, H. Lin, Y. Zhuang, B. C. Ooi: HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation ICML 2025.
+
+</li><li>
+J. Zhu, S. Cai, Y. Shen, G. Chen, F. Deng, B. C. Ooi: In-Context Adaptation to Concept Drift for Learned Database Operations. ICML 2025.
+
+</li><li>
+C. Liu, L. Zeng, K. Zheng, S. Cai, J. W. L. Yip, B.C. Ooi: NeuralCohort: Cohort-aware Neural Representation Learning for Healthcare Analytics. ICML 2025.
+
+</li><li>
+C. Wang, G. Tan, S. B. Roy, B.C. Ooi: Distribution-Aware Online Learning for Urban Spatiotemporal Forecasting on Streaming Data. The 34th International Joint Conference on Artificial Intelligence, IJCAI 2025.
+
+</li><li>
+Z. Zhao, H. Gao, N. Xing, L. Zeng, M. Zhang, G. Chen, M. Rigger, B.C. Ooi: NeurBench: Benchmarking Learned Database Components with Data and Workload Drift Modeling. 2025.
+
+</li><li>
+H. Pan, S. Cai, Y. Wu, Y.M. Chee, T.T.A. Dinh, B. C. Ooi: CCaaLF: Concurrency Control as a Learnable Function. 2025.
 
 </li><li>
 A. Lee et al:
@@ -46,6 +71,9 @@ NDSS 2025.
 H. Gao, S. Cai, T.T.A Anh, Z. Huang, B.C. Ooi:
 CtxPipe: Context-aware Data Preparation Pipeline Construction for Machine Learning. 
 ACM SIGMOD 2025.
+
+</li><li>
+G. Hu, S. Cai, A. Dinh, Z. Xie, C. Yue, G. Chen, B.C. Ooi: HAKES: Scalable Vector Database for Embedding Search Service. VLDB, 2025.
 
 </li><li>
 L. Zeng, N. Xing, S. Cai, G. Chen, B.C. Ooi, J. Pei, Y. Wu:
