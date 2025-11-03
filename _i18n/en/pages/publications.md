@@ -18,6 +18,9 @@
 <ol>
 
 <li>
+H. Gao, Q. T. Ta, T. T. A. Dinh, N.-M. Ho, Z. Huang, B. C. Ooi: NB2P: Generating Data Science Pipelines from Computational Notebooks. 48th IEEE/ACM International Conference on Software Engineering (ICSE), 2026.
+
+</li><li>
 S. Xiang, S. Wang, X. Xiao, C. Yue, Z. Zhao, B. C. Ooi: NeurStore: Efficient In-database Deep Learning Model Management System. ACM SIGMOD 2026.
 
 </li><li>
