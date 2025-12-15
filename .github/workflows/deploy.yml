@@ -1,6 +1,10 @@
 name: Deploy site
 
 on:
+  workflow_run:
+    workflows: ["Weekly Citation Update"]
+    types:
+      - completed
   push:
     branches:
       - master
