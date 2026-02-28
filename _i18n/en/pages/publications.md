@@ -18,6 +18,27 @@
 <ol>
 
 <li>
+Z. Zhao, H. Gao, N. Xing, L. Zeng, M. Zhang, G. Chen, M. Rigger, B. C. Ooi: NeurBench: A Benchmark Suite for Learned Database Components with Drift Modeling. ACM SIGMOD 2026.
+
+</li><li>
+H. Pan, S. Cai, A. Dinh, Y. Wu, Y.M. Chee, G. Chen, B. C. Ooi: Modeling Concurrency Control as a Learnable Function. ACM SIGMOD 2026.
+
+</li><li>
+B. Han, G. Hu, B. Li, X. Xiao, Z. Zhan, B. C. Ooi: On Self-Designing Learned Indexes. ACM SIGMOD 2026.
+
+</li><li>
+J. He, C. Liu, S. Cai, X Han, Y. Shen, B. C. Ooi: CoShap: A Scalable Coalition Growth Approach to Shapley Value Approximation. ACM SIGMOD 2026.
+
+</li><li>
+J. Song, Y. Liu, G. Hu, Z. Xie, M. Yang, B. C. Ooi, K. Zhou: FAVOR: Efficient Filter-Agnostic Vector ANNS Based on Selectivity-Aware Exclusion Distances. ACM SIGMOD 2026.
+
+</li><li>
+S. Xiang, S. Wang, X. Xiao, C. Yue, Z. Zhao, B. C. Ooi: NeurStore: Efficient In-database Deep Learning Model Management System. ACM SIGMOD 2026.
+
+</li><li>
+S. Hou, W. Pei, N. Chen, Q.-T. Ta, P. Lu, B. C. Ooi: NL2SQLBench: A Modular Benchmarking Framework for LLM-Enabled NL2SQL Solutions. VLDB 2026.
+
+</li><li>
 H. Gao, Q. T. Ta, T. T. A. Dinh, N.-M. Ho, Z. Huang, B. C. Ooi: NB2P: Generating Data Science Pipelines from Computational Notebooks. 48th IEEE/ACM International Conference on Software Engineering (ICSE), 2026.
 
 </li><li>
