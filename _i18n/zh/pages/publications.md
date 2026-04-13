@@ -18,6 +18,18 @@
 <ol>
 
 <li>
+Y. Shen, X. S. Wang, X. Du, B. C. Ooi, H. Mei: Entity-centric Data Management for the Ubiquitous Computing Era. Science China Information Sciences, Springer, 2026.
+
+</li><li>
+G. Chen, C. Liu, G. A. Ooi, M. Tan, Z. Xie, J. Yin, J. W. L. Yip, W. Zhang, J. Zhu and B. C. Ooi: Generative AI for Healthcare: Fundamentals, Challenges, and Perspectives. Science China Information Sciences, Springer, 2026.
+
+</li><li>
+S. Li, et al: TumorChain: Interleaved Multimodal Chain- of-thought Reasoning for Traceable Clinical Tumor Analysis. ICLR 2026.
+
+</li><li>
+T. Lin et al: OmniCT: Towards a Unified Slice-Volume LVLM for Comprehensive CT analysis. ICLR 2026
+
+</li><li>
 Z. Zhao, H. Gao, N. Xing, L. Zeng, M. Zhang, G. Chen, M. Rigger, B. C. Ooi: NeurBench: A Benchmark Suite for Learned Database Components with Drift Modeling. ACM SIGMOD 2026.
 
 </li><li>
