@@ -15,7 +15,7 @@ profile:
     <p>浙江省宁波市鄞州区学府路5号9号楼</p>
     <a href="https://scholar.google.com/citations?user=9560QjYAAAAJ&hl=en">[Google Scholar]</a>
     <a href="https://dblp.org/pid/o/BengChinOoi">[DBLP]</a><br>
-    <a hred="https://www.nbdataxai.com">Data X AI Research Group</a>
+    <a href="https://www.nbdataxai.com">[Data X AI Research Group]</a>
 
   more_info_en: >
     <p>School of Software Technology</p>
@@ -23,7 +23,7 @@ profile:
     <p>Building 9, No. 5 Xuefu Road, Yinzhou District, Ningbo City, Zhejiang Province, China.</p>
     <a href="https://scholar.google.com/citations?user=9560QjYAAAAJ&hl=en">[Google Scholar]</a>
     <a href="https://dblp.org/pid/o/BengChinOoi">[DBLP]</a><br>
-    <a hred="https://www.nbdataxai.com">Data X AI Research Group</a>
+    <a href="https://www.nbdataxai.com">[Data X AI Research Group]</a>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
