@@ -9,6 +9,7 @@ profile:
   align: left
   image: ooibc.jpg
   image_circular: false # crops the image to make it circular
+  image_grayscale: true # desaturates the profile image for mourning
   more_info: >
     <p>软件学院</p>
     <p>浙江大学</p>
@@ -40,4 +41,3 @@ latest_posts:
 ---
 
 {% translate_file pages/about.md %}
-
