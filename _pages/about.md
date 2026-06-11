@@ -2,42 +2,21 @@
 layout: about
 title: titles.about
 permalink: /
-subtitle: 浙江大学软件学院
-subtitle_en: School of Software Technology, Zhejiang University
 
-profile:
-  align: left
+memorial_hero:
+  enabled: true
   image: ooibc.jpg
-  image_circular: false # crops the image to make it circular
-  image_grayscale: true # desaturates the profile image for mourning
-  more_info: >
-    <p>软件学院</p>
-    <p>浙江大学</p>
-    <p>浙江省宁波市鄞州区学府路5号9号楼</p>
-    <a href="https://scholar.google.com/citations?user=9560QjYAAAAJ&hl=en">[Google Scholar]</a>
-    <a href="https://dblp.org/pid/o/BengChinOoi">[DBLP]</a><br>
-    <a href="https://www.nbdataxai.com">[Data X AI Research Group]</a>
-
-  more_info_en: >
-    <p>School of Software Technology</p>
-    <p>Zhejiang University</p>
-    <p>Building 9, No. 5 Xuefu Road, Yinzhou District, Ningbo City, Zhejiang Province, China.</p>
-    <a href="https://scholar.google.com/citations?user=9560QjYAAAAJ&hl=en">[Google Scholar]</a>
-    <a href="https://dblp.org/pid/o/BengChinOoi">[DBLP]</a><br>
-    <a href="https://www.nbdataxai.com">[Data X AI Research Group]</a>
-
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  label: 沉痛悼念
+  label_en: In Memoriam
+  title: 黄铭钧教授
+  title_en: Professor Ooi Beng Chin
+  years: 1961 - 2026
+  lead: >
+    我们怀着沉痛的心情悼念黄铭钧教授。他是杰出的学者、富有远见的学术领导者，也是深受学生、同事和朋友敬重的师长。
+  lead_en: >
+    We are deeply saddened by the passing of Professor Ooi Beng Chin, a distinguished scholar, visionary leader, and beloved mentor, colleague, and friend.
+  note: >
+    他的学术贡献、系统建设和育人精神将持续影响数据库、分布式系统、人工智能和数据驱动应用等领域。
+  note_en: >
+    His scholarship, system-building legacy, and dedication to mentoring will continue to inspire the communities of databases, distributed systems, artificial intelligence, and data-driven applications.
 ---
-
-{% translate_file pages/about.md %}

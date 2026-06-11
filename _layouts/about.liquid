@@ -2,23 +2,61 @@
 layout: default
 ---
 <div class="post">
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
-    {% if site.lang == "zh" %}
-    <p class="desc">{{ page.subtitle }}</p>
-    {% elsif site.lang == "en" %}
-    <p class="desc">{{ page.subtitle_en }}</p>
-    {% endif %}
-  </header>
+  {% if page.memorial_hero and page.memorial_hero.enabled %}
+    <section class="memorial-hero" aria-labelledby="memorial-hero-title">
+      <div class="hero-main">
+        <div class="hero-grid">
+          <div class="hero-copy">
+            <div class="header-label">
+              <span>{{ page.memorial_hero.label_en }}</span>
+              <span>{{ page.memorial_hero.label }}</span>
+            </div>
+            <h2 class="faculty-name" id="memorial-hero-title">
+              {{ page.memorial_hero.title_en }}
+              <span class="faculty-name-zh">{{ page.memorial_hero.title }}</span>
+              <span class="faculty-years">({{ page.memorial_hero.years }})</span>
+            </h2>
+            <p class="faculty-sub">
+              {{ page.memorial_hero.lead_en }}
+              <span class="memorial-zh">{{ page.memorial_hero.lead }}</span>
+            </p>
+            <p class="tagline">
+              {{ page.memorial_hero.note_en }}
+              <span class="memorial-zh">{{ page.memorial_hero.note }}</span>
+            </p>
+          </div>
+          {% if page.memorial_hero.image %}
+            <div class="hero-portrait-wrap">
+              <img
+                class="hero-portrait"
+                src="{{ page.memorial_hero.image | prepend: '/assets/img/' | relative_url }}"
+                alt="{{ page.memorial_hero.title }} / {{ page.memorial_hero.title_en }}"
+              >
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </section>
+  {% endif %}
 
-  <article>
+  {% unless page.memorial_hero and page.memorial_hero.enabled %}
+    <header class="post-header">
+      <h1 class="post-title">
+        {% if site.title == 'blank' %}
+          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+          {{ site.last_name }}
+        {% else %}
+          {{ site.title }}
+        {% endif %}
+      </h1>
+      {% if site.lang == "zh" %}
+      <p class="desc">{{ page.subtitle }}</p>
+      {% elsif site.lang == "en" %}
+      <p class="desc">{{ page.subtitle_en }}</p>
+      {% endif %}
+    </header>
+
+    <article>
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
@@ -87,5 +125,6 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
-  </article>
+    </article>
+  {% endunless %}
 </div>
